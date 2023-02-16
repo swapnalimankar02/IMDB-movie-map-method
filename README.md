@@ -1,1 +1,0 @@
-# IMDB-movie-map-method
